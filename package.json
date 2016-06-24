@@ -1,0 +1,19 @@
+{
+  "name": "react-native-cprogress",
+  "version": "1.0.0",
+  "description": "React native circular progress component",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "Circular",
+    "Progress",
+    "React",
+    "Native",
+    "Pie",
+    "Progress"
+  ],
+  "author": "sathis",
+  "license": "MIT"
+}
